@@ -1,0 +1,3 @@
+[submodule "front-end-angular-app"]
+	path = front-end-angular-app
+	url = https://github.com/AneleAndrew/front-end-angular-app.git
